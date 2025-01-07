@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- [GitHub Pages](https://mts-ml.github.io/development/testimonials-grid-section/index.html)
+- [Preview Site](https://mts-ml.github.io/testimonials-grid-section/)
 
 
 ### Built with
